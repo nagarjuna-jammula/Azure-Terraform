@@ -1,0 +1,17 @@
+terraform.tfstate
+terraform.tfstate.backup
+terraform_output.JPG
+Apache_Ouput.JPG
+terraform-provider-azurerm_v2.97.0_x5.exe
+# Applications
+*.app
+*.exe
+*.war
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
